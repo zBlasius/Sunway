@@ -30,11 +30,11 @@ The application should now be running. You can interact with it based on the pro
 ## Running the Tests
 To execute the test suite and verify the project's functionality, follow these steps:
 
-1.Navigate to the MainProject.Tests directory:
+1. Navigate to the MainProject.Tests directory:
 
     cd MainProject.Tests
 
-2.Run the tests using the following command:
+2. Run the tests using the following command:
 
     dotnet test
 
