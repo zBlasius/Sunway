@@ -30,11 +30,13 @@ Running the Tests
 To execute the test suite and verify the project's functionality, follow these steps:
 
 Navigate to the MainProject.Tests directory:
+
 ```bash
 cd MainProject.Tests
 
 Run the tests using the following command:
-''bash
+
+```bash
 dotnet test
 
 The test results will be displayed in the terminal, including any failures or successes.
