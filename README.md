@@ -22,6 +22,7 @@ To run the project, follow these steps:
    
 2. Execute the following command to build and run the application:
 
+    ```bash
     dotnet run
 
 The application should now be running. You can interact with it based on the provided instructions or API endpoints.
