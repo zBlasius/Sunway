@@ -20,20 +20,20 @@ To run the project, follow these steps:
    ```bash
    cd MainProject
    
-Execute the following command to build and run the application:
+2. Execute the following command to build and run the application:
 
     dotnet run
 
 The application should now be running. You can interact with it based on the provided instructions or API endpoints.
 
-Running the Tests
+## Running the Tests
 To execute the test suite and verify the project's functionality, follow these steps:
 
-Navigate to the MainProject.Tests directory:
+1.Navigate to the MainProject.Tests directory:
 
     cd MainProject.Tests
 
-Run the tests using the following command:
+2.Run the tests using the following command:
 
     dotnet test
 
