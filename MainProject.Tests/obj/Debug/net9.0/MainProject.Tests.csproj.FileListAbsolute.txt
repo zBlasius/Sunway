@@ -110,3 +110,4 @@ C:\Users\Sofia\Sunway\MainProject.Tests\obj\Debug\net9.0\MainProject.Tests.genru
 C:\Users\Sofia\Sunway\MainProject.Tests\obj\Debug\net9.0\ref\MainProject.Tests.dll
 C:\Users\Sofia\Sunway\MainProject.Tests\bin\Debug\net9.0\Castle.Core.dll
 C:\Users\Sofia\Sunway\MainProject.Tests\bin\Debug\net9.0\Moq.dll
+C:\Users\Sofia\Sunway\MainProject.Tests\obj\Debug\net9.0\MainProject.Tests.sourcelink.json

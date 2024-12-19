@@ -27,7 +27,7 @@ app.MapGet(
             {
                 if (!int.TryParse(id, out var numericId))
                 {
-                    return Results.NotFound(new { error = "id must be a number" });
+                    return Results.NotFound(new { error = "id must to be a number" });
                 }
 
                 var hotel = hotelService.GetById(id);

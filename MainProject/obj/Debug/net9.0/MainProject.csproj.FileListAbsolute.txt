@@ -31,3 +31,4 @@ C:\Users\Sofia\Sunway\MainProject\obj\Debug\net9.0\refint\MainProject.dll
 C:\Users\Sofia\Sunway\MainProject\obj\Debug\net9.0\MainProject.pdb
 C:\Users\Sofia\Sunway\MainProject\obj\Debug\net9.0\MainProject.genruntimeconfig.cache
 C:\Users\Sofia\Sunway\MainProject\obj\Debug\net9.0\ref\MainProject.dll
+C:\Users\Sofia\Sunway\MainProject\obj\Debug\net9.0\MainProject.sourcelink.json
