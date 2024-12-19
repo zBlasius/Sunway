@@ -18,7 +18,22 @@ app.UseHttpsRedirection();
 
 var hotelService = new HotelService();
 
-app.MapGet("/hotels", () => hotelService.GetList()).WithName("GetHotelList");
+app.MapGet(
+        "/hotels",
+        () =>
+        {
+            try
+            {
+                var list = hotelService.GetList();
+                return Results.Ok(list);
+            }
+            catch (Exception ex)
+            {
+                return Results.Problem("An unexpected error occurred.", statusCode: 500);
+            }
+        }
+    )
+    .WithName("GetHotelList");
 app.MapGet(
         "/hotels/{id}",
         (string id) =>
